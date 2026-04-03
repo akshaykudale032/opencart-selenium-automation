@@ -19,7 +19,7 @@ import io.qameta.allure.Story;
 @Story("101: Login page functionality")
 public class LoginPageTest extends BaseTest {
 
-	@Description("Verify Login Page Title")
+	@Description("Verify Login Page Title....")
 	@Severity(SeverityLevel.MINOR)
 	@Test
 	public void loginPageTitleTest() {
